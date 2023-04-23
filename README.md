@@ -1,3 +1,3 @@
 # numerical-simulations
 
-This repo contains some simulations for several models arising from my own research.
+This repo contains some simulations for several interesting models arising from my own study.
